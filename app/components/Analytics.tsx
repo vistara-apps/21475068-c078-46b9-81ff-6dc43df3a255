@@ -157,10 +157,9 @@ export default function Analytics() {
                   key={idea.id}
                   className="flex items-center justify-between p-4 bg-surface/30 rounded-lg border border-white/10"
                   whileHover={{ scale: 1.01 }}
-                  transition={{ duration: 0.2 }}
                   initial={{ opacity: 0, x: -20 }}
                   animate={{ opacity: 1, x: 0 }}
-                  transition={{ delay: 0.8 + index * 0.1 }}
+                  transition={{ duration: 0.2, delay: 0.8 + index * 0.1 }}
                 >
                   <div className="flex items-center space-x-4">
                     <div className="flex flex-col items-center">
