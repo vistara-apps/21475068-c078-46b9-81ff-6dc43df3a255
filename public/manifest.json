@@ -1,0 +1,14 @@
+{
+  "name": "OriginMint",
+  "description": "OriginMint is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://21475068-c078-46b9-81ff-6dc43df3a255.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "OriginMint",
+      "description": "OriginMint is a Base Mini App built with Zara.",
+      "url": "https://21475068-c078-46b9-81ff-6dc43df3a255.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

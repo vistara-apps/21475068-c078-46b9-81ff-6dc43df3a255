@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "OriginMint",
+    "subtitle": "Built with Zara",
+    "description": "OriginMint is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://21475068c07846b981ff6dc43df3a255-h14i-ecb20adwg-vistara.vercel.app",
+    "splashImageUrl": "https://21475068c07846b981ff6dc43df3a255-h14i-ecb20adwg-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://21475068c07846b981ff6dc43df3a255-h14i-ecb20adwg-vistara.vercel.app/image.png",
+    "tagline": "OriginMint",
+    "screenshotUrls": [
+      "https://21475068c07846b981ff6dc43df3a255-h14i-ecb20adwg-vistara.vercel.app/screenshot.png",
+      "https://21475068c07846b981ff6dc43df3a255-h14i-ecb20adwg-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://21475068c07846b981ff6dc43df3a255-h14i-ecb20adwg-vistara.vercel.app/api/webhook"
+  }
+}
